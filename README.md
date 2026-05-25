@@ -24,6 +24,9 @@ A simple Calculator Android App built using Kotlin and Jetpack Compose.
 <img width="362" height="795" alt="Screenshot 2026-05-21 161446" src="https://github.com/user-attachments/assets/eccdf18d-00db-496e-9de0-4314321dc7d6" />
 <img width="361" height="792" alt="Screenshot 2026-05-21 161509" src="https://github.com/user-attachments/assets/86453042-5f10-422e-98ef-62d9c0b8dcbd" />
 
+## Demo videos
+https://drive.google.com/file/d/17HKR2ket3xY891vcwflooWeO9Sw4tCQ7/view?usp=drive_link
+
 
 ## Author
 Jyothi Kolli
